@@ -56,7 +56,7 @@ dependencyResolutionManagement {
             library("rikkax-preference", "dev.rikka.rikkax.preference:simplemenu-preference:1.0.3")
             library("rikkax-recyclerview", "dev.rikka.rikkax.recyclerview:recyclerview-ktx:1.3.1")
             library("rikkax-widget-borderview", "dev.rikka.rikkax.widget:borderview:1.1.0")
-            library("rikkax-widget-mainswitchbar", "dev.rikka.rikkax.widget:mainswitchbar:1.0.2")
+            library("rikkax-widget-mainswitchbar", "dev.rikka.rikkax.widget:mainswitchbar:1.1.0")
 
             library("androidx-activity", "androidx.activity:activity:1.6.1")
             library("androidx-annotation", "androidx.annotation:annotation:1.6.0")
